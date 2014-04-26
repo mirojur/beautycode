@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@import url('/css/bootstrap.min.css');
+@import url('/css/styles.css');
+
+
+
+/* this is for tags */
+body{
+
+	font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+	color:#ffffff;
+
+
+}
+
+/* this is for a class!!!  */
